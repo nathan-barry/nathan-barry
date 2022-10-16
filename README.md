@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome 👋
 
 I'm [Nathan Barry](https://nathan.rs), a computer science student at the University of Texas at Austin.
 
