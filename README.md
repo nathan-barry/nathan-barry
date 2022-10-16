@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm [Nathan Barry](https://nathan.rs), a computer science student at the University of Texas at Austin.
+
+> "The average person puts only 25% of his energy and ability into his work. The world takes off its hat to those who put in more than 50% of their capacity, and stands on its head for those few and far between souls who devote 100%" - Andrew Carnegie
+
 <!--
 **nathan-barry/nathan-barry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
