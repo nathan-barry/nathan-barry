@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-I'm [Nathan Barry](https://nathan.rs), a computer science and mathematics student at the University of Texas at Austin.
+I'm [Nathan Barry](https://nathan.rs), a Computer Science and Math student at the University of Texas at Austin.
 
 > "The average person puts only 25% of his energy and ability into his work. The world takes off its hat to those who put in more than 50% of their capacity, and stands on its head for those few and far between souls who devote 100%" - Andrew Carnegie
 
